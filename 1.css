@@ -1,0 +1,12 @@
+.a:hover{cursor: pointer;opacity: 1;transition: opacity 0.5s ease-in-out;transition: 0.5s;}
+.s:hover{cursor: pointer;opacity: 1;transition: opacity 0.5s ease-in-out;transition: 0.5s;}
+.d:hover{cursor: pointer;opacity: 1;transition: opacity 0.5s ease-in-out;transition: 0.5s;}
+.f:hover{cursor: pointer;opacity: 1;transition: opacity 0.5s ease-in-out;transition: 0.5s;}
+.g:hover{cursor: pointer;opacity: 1;transition: opacity 0.5s ease-in-out;transition: 0.5s;}
+.h:hover{cursor: pointer;opacity: 1;transition: opacity 0.5s ease-in-out;transition: 0.5s;}
+.a{opacity: 0.5;transition: 0.5s;}
+.s{opacity: 0.5;transition: 0.5s;}
+.d{opacity: 0.5;transition: 0.5s;}
+.f{opacity: 0.5;transition: 0.5s;}
+.g{opacity: 0.5;transition: 0.5s;}
+.h{opacity: 0.5;transition: 0.5s;}
